@@ -4,3 +4,5 @@
 ## 概述
   ⚪Pentagram.py文件完成了一颗五角星的绘制  
   ⚪drawSnake.py文件完成了Python蟒蛇的绘制  
+## 展示
+![image](https://github.com/daladida/Python-Turtle/blob/main/images/%E4%BA%94%E8%A7%92%E6%98%9F.png)![image](https://github.com/daladida/Python-Turtle/blob/main/images/Python%E8%9F%92%E8%9B%87.png)
