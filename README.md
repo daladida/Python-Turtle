@@ -4,7 +4,7 @@
 ## 概述
   ⚪Pentagram.py文件完成了一颗五角星的绘制  
   ⚪drawSnake.py文件完成了Python蟒蛇的绘制  
-  ⚪Snowfall.py文件完成了一副Turtle雪景图的绘制
+  ⚪Snowfall.py文件完成了一副Turtle雪景图的绘制  
   ⚪Rainbow.py文件完成了一副Turtle彩虹图的绘制
 ## 展示
 ![image](https://github.com/daladida/Python-Turtle/blob/main/images/%E4%BA%94%E8%A7%92%E6%98%9F.png)
