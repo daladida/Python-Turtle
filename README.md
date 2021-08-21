@@ -7,6 +7,8 @@
   ⚪Snowfall.py文件完成了一副Turtle雪景图的绘制  
   ⚪Rainbow.py文件完成了一副Turtle彩虹图的绘制
   ⚪Tree.py文件完成了一副Turtle树林图的绘制
+  ⚪Circle.py文件完成了一副Turtl基本多彩图形的绘制
+ 
 ## 展示
 ![image](https://github.com/daladida/Python-Turtle/blob/main/images/%E4%BA%94%E8%A7%92%E6%98%9F.png)
 ![image](https://github.com/daladida/Python-Turtle/blob/main/images/Python%E8%9F%92%E8%9B%87.png)
